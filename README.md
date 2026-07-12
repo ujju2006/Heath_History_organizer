@@ -1,4 +1,4 @@
-# Health History Organizer
+# AI Specialist Health History Organizer
 
 ## Repository Structure
 
